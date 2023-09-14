@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/curaster/static/css/main.ae3fdb1c.css",
-    "main.js": "/curaster/static/js/main.fce81a4d.js",
+    "main.js": "/curaster/static/js/main.8e948d81.js",
     "static/js/787.2e3e9d47.chunk.js": "/curaster/static/js/787.2e3e9d47.chunk.js",
     "static/media/Cred-logo.png": "/curaster/static/media/Cred-logo.f3d12fff19d8ddf1322a.png",
     "index.html": "/curaster/index.html",
     "main.ae3fdb1c.css.map": "/curaster/static/css/main.ae3fdb1c.css.map",
-    "main.fce81a4d.js.map": "/curaster/static/js/main.fce81a4d.js.map",
+    "main.8e948d81.js.map": "/curaster/static/js/main.8e948d81.js.map",
     "787.2e3e9d47.chunk.js.map": "/curaster/static/js/787.2e3e9d47.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ae3fdb1c.css",
-    "static/js/main.fce81a4d.js"
+    "static/js/main.8e948d81.js"
   ]
 }
