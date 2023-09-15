@@ -1,22 +1,29 @@
 {
   "files": {
     "main.css": "/static/css/main.dfb72cdc.css",
-    "main.js": "/static/js/main.c92b43f6.js",
+    "main.js": "/static/js/main.0df3d705.js",
     "static/js/787.2e3e9d47.chunk.js": "/static/js/787.2e3e9d47.chunk.js",
     "static/media/bgvideo-.mp4": "/static/media/bgvideo-.a2372a86038378c1924c.mp4",
     "static/media/service3.jpg": "/static/media/service3.7f87265b4ec5bd3be70b.jpg",
+    "static/media/Home2.png": "/static/media/Home2.1cad9cf1ab89623b426a.png",
     "static/media/Home.png": "/static/media/Home.881e943281b9bfd63362.png",
+    "static/media/8.png": "/static/media/8.3520d5a612722f533d45.png",
+    "static/media/7.png": "/static/media/7.7865a2b65cb4e45a38e6.png",
     "static/media/service2.jpg": "/static/media/service2.2913b5916b9af165fd6b.jpg",
-    "static/media/About.png": "/static/media/About.a0fbc6c58e742b3d2e14.png",
-    "static/media/logocred.png": "/static/media/logocred.ca4ade7c8e0a9cb85c44.png",
-    "static/media/cure-app-service.jpeg": "/static/media/cure-app-service.c7746dfeaaeb484bdda2.jpeg",
+    "static/media/Home1.png": "/static/media/Home1.0a06d97c831137f07590.png",
+    "static/media/3.png": "/static/media/3.c5275b511f37b8c5e180.png",
+    "static/media/Home3.png": "/static/media/Home3.6b3dd31f0092e4bcbf74.png",
+    "static/media/ServicePage1.png": "/static/media/ServicePage1.25ae9e34c91c77e77d31.png",
+    "static/media/ServicePage2.png": "/static/media/ServicePage2.89967a9b896e57981929.png",
+    "static/media/aboutus.jpeg": "/static/media/aboutus.c7746dfeaaeb484bdda2.jpeg",
+    "static/media/logo 250100.png": "/static/media/logo 250100.0a93c50ae849087318ba.png",
     "index.html": "/index.html",
     "main.dfb72cdc.css.map": "/static/css/main.dfb72cdc.css.map",
-    "main.c92b43f6.js.map": "/static/js/main.c92b43f6.js.map",
+    "main.0df3d705.js.map": "/static/js/main.0df3d705.js.map",
     "787.2e3e9d47.chunk.js.map": "/static/js/787.2e3e9d47.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dfb72cdc.css",
-    "static/js/main.c92b43f6.js"
+    "static/js/main.0df3d705.js"
   ]
 }
